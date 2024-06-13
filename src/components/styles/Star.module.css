@@ -1,0 +1,9 @@
+.starContainer {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .starContainer:hover {
+    cursor: pointer;
+  }
+  
